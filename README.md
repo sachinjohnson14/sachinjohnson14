@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachinjohnson14
+- 👋 Hi, I’m Sachin Johnson
 - 👀 I’m interested in UI/UX, Frontend Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on projects utilising any frontend library
